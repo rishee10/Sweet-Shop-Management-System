@@ -87,9 +87,6 @@ Sweet-Shop/
 
 ### 🚀 Installation & Setup (Beginner Friendly)  
 
-**You can also watch the installation and setup video. The link is provided below.**
-  Link: 
-
 
 * Clone the Github Repo:
 
@@ -161,13 +158,13 @@ Sweet-Shop/
 
 * Run this (Copy paste it)
 
-```
-  User.objects.create_user(
-     username="admin_user_name",  # Here the admin user name come
-     password="admin_password",   # Here the admin password come
+ ```
+User.objects.create_user(
+     username="admin_user_name",  
+     password="admin_password",   
      is_staff=True 
   )
-```
+ ```
 
 * Run the backend Server
 
@@ -249,6 +246,48 @@ Specifically, I used it to:
 
 **I treated AI like a senior developer mentor — validating ideas, learning faster, and making better technical decisions — while still fully understanding and owning the final code.**
   
+
+
+### Projects Screenshot and Video
+
+**Video**
+
+* Link: https://drive.google.com/file/d/1yhsbL7DyzUXq8OnRsR1gQP6E1nuOYapE/view?usp=sharing
+
+**Screenshot**
+
+
+* **Registration Page**
+  
+<img width="1919" height="969" alt="Screenshot 2025-12-14 145518" src="https://github.com/user-attachments/assets/b773badb-821a-424e-905e-83458495f6e6" />
+
+
+* **User Dashboard**
+  
+<img width="1919" height="934" alt="Screenshot 2025-12-14 145856" src="https://github.com/user-attachments/assets/5f1f0c00-7156-4bcb-9e9f-5d305329559d" />
+
+
+* **User Dashboard**
+
+<img width="1919" height="947" alt="Screenshot 2025-12-14 145919" src="https://github.com/user-attachments/assets/98cec9ae-daec-4d1c-881b-02c4052cf55a" />
+
+* **Admin Dashboard**
+
+<img width="1919" height="942" alt="Screenshot 2025-12-14 145948" src="https://github.com/user-attachments/assets/d42c288f-e03c-4388-a43a-06fc93ba101e" />
+
+* **Admin Dashboard**
+
+<img width="1919" height="967" alt="Screenshot 2025-12-14 150007" src="https://github.com/user-attachments/assets/25c787e8-bee2-4903-b1b9-2d73661d4351" />
+
+* **Test Result**
+  12 Test Cases are design which is present inside the backend/shop/tests.py file
+
+  <img width="1484" height="444" alt="Screenshot 2025-12-14 151123" src="https://github.com/user-attachments/assets/ff62f287-0223-4fa9-b302-2c9d947f79ea" />
+
+
+
+
+
 
 
 
